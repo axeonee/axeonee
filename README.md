@@ -1,5 +1,12 @@
-## Hi there 👋
+## hello friend
 
+
+@@ Interests @@
+
+* Game Developement
+* Linux
+* CTF's
+* Cyber Security
 <!--
 **axeonee/axeonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
