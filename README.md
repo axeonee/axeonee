@@ -1,10 +1,10 @@
 ## hello friend
 
-```ruby
+```C#
 @@ Interested @@
 
 * Game Developement
 * Linux
-* CTF's
+* CTF
 * Cyber Security
 ```
