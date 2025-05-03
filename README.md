@@ -1,7 +1,7 @@
-## hello friend
+## hello, friend
 
-```C#
-@@ Interested @@
+```yaml
+interests:
 
 * Game Developement
 * Linux
