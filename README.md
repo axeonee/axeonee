@@ -2,9 +2,8 @@
 
 ```yaml
 interests:
-
-* Game Developement
-* Linux
-* CTF
-* Cyber Security
+- Game Developement
+- Linux
+- CTF
+- Cyber Security
 ```
